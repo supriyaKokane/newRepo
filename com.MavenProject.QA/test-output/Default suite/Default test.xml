@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-NA3OQ0PP" failures="0" tests="1" name="com.MavenProject.QA.Test.RegTest" time="4.697" errors="0" timestamp="13 Feb 2023 08:10:19 GMT">
+  <testcase classname="com.MavenProject.QA.Test.RegTest" name="abc" time="0.607"/>
+</testsuite>
